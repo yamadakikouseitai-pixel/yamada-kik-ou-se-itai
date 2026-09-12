@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yamadakikouseitai-pixel.github.io/yamada-kik-ou-se-itai/sitemap.xml
